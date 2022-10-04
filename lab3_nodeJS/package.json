@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cjs": "^0.0.11",
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1",
+    "mogoose": "^0.0.1-security",
+    "mongodb": "^4.10.0",
+    "mongoose": "^6.6.4",
+    "node": "^18.10.0",
+    "validator": "^13.7.0"
+  }
+}
